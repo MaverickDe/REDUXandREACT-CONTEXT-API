@@ -6,12 +6,12 @@ React  Context api and Redux
 
 This shows the use of react Context Api and redux 
 
-the src folder contais two folder of two same code but implemented an in redux and react context api
+the src folder contains two folder of two same code but implemented an in redux and react context api
 
 
 
 
-something to note Redux and React Cpntext api makes use of reducers in their boiler plate
+something to note Redux and React Context api makes use of reducers in their boiler plate
 
 so you need to know the poupular reducer fuctions
 
